@@ -1,0 +1,1 @@
+#include "gestion_mode_normal.c"
